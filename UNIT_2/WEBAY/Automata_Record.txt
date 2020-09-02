@@ -1,0 +1,15 @@
+The string is: ebayebay
+Start: B.
+State: &(B, e) = D.
+State: &(D, b) = F.
+State: &(F, a) = H.
+State: &(H, y) = I.
+State: &(I, e) = D.
+State: &(D, b) = F.
+State: &(F, a) = H.
+State: &(H, y) = I.
+String accepted.
+
+Number of words recognized: 1.
+Words recognized: 
+ebayebay.

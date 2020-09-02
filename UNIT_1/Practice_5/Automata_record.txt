@@ -1,0 +1,672 @@
+
+|+|+|+|+|+|+|+|I'M ON|+|+|+|+|+|+|+|.
+BLOCK READ: copiar corrupcion engano enganar falso falsificar mentir robar violencia traficar en los años setenta
+
+|+|+|+|AUTOMATA: COPIAR
+Word: copiar
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+State: &(Q2, p) = Q3.
+State: &(Q3, i) = Q4.
+State: &(Q4, a) = Q5.
+State: &(Q5, r) = Q6.
+|+|+|+|+|+|SUSPICIOUS WORD: copiar
+
+|+|+|+|AUTOMATA: COPIAR
+Word: corrupcion
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+State: &(Q2, p) = Q3.
+State: &(Q3, i) = Q4.
+|+|+|+|AUTOMATA: CORRUPCION
+Word: corrupcion
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+State: &(Q2, r) = Q3.
+State: &(Q3, r) = Q4.
+State: &(Q4, u) = Q5.
+State: &(Q5, p) = Q6.
+State: &(Q6, c) = Q7.
+State: &(Q7, i) = Q8.
+State: &(Q8, o) = Q9.
+State: &(Q9, n) = Q10.
+|+|+|+|+|+|SUSPICIOUS WORD: corrupcion
+
+|+|+|+|AUTOMATA: COPIAR
+Word: engano
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: engano
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: engano
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+State: &(Q2, g) = Q3.
+State: &(Q3, a) = Q4.
+State: &(Q4, n) = Q5.
+State: &(Q5, o) = Q6.
+|+|+|+|+|+|SUSPICIOUS WORD: engano
+
+|+|+|+|AUTOMATA: COPIAR
+Word: enganar
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: enganar
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: enganar
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+State: &(Q2, g) = Q3.
+State: &(Q3, a) = Q4.
+State: &(Q4, n) = Q5.
+|+|+|+|AUTOMATA: ENGANAR
+Word: enganar
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+State: &(Q2, g) = Q3.
+State: &(Q3, a) = Q4.
+State: &(Q4, n) = Q5.
+State: &(Q5, a) = Q6.
+State: &(Q6, r) = Q7.
+|+|+|+|+|+|SUSPICIOUS WORD: enganar
+
+|+|+|+|AUTOMATA: COPIAR
+Word: falso
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: falso
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: falso
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: falso
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: falso
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+State: &(Q2, l) = Q3.
+State: &(Q3, s) = Q4.
+State: &(Q4, o) = Q5.
+|+|+|+|+|+|SUSPICIOUS WORD: falso
+
+|+|+|+|AUTOMATA: COPIAR
+Word: falsificar
+State: Q0
+State: &(Q0, c) = Q1.
+|+|+|+|AUTOMATA: CORRUPCION
+Word: falsificar
+State: Q0
+State: &(Q0, c) = Q1.
+|+|+|+|AUTOMATA: ENGANO
+Word: falsificar
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: falsificar
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: falsificar
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+State: &(Q2, l) = Q3.
+State: &(Q3, s) = Q4.
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: falsificar
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+State: &(Q2, l) = Q3.
+State: &(Q3, s) = Q4.
+State: &(Q4, i) = Q5.
+State: &(Q5, f) = Q6.
+State: &(Q6, i) = Q7.
+State: &(Q7, c) = Q8.
+State: &(Q8, a) = Q9.
+State: &(Q9, r) = Q10.
+|+|+|+|+|+|SUSPICIOUS WORD: falsificar
+
+|+|+|+|AUTOMATA: COPIAR
+Word: mentir
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: mentir
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: mentir
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: ENGANAR
+Word: mentir
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: FALSO
+Word: mentir
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: mentir
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: mentir
+State: Q0
+State: &(Q0, m) = Q1.
+State: &(Q1, e) = Q2.
+State: &(Q2, n) = Q3.
+State: &(Q3, t) = Q4.
+State: &(Q4, i) = Q5.
+State: &(Q5, r) = Q6.
+|+|+|+|+|+|SUSPICIOUS WORD: mentir
+
+|+|+|+|AUTOMATA: COPIAR
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: robar
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: robar
+State: Q0
+State: &(Q0, r) = Q1.
+State: &(Q1, o) = Q2.
+State: &(Q2, b) = Q3.
+State: &(Q3, a) = Q4.
+State: &(Q4, r) = Q5.
+|+|+|+|+|+|SUSPICIOUS WORD: robar
+
+|+|+|+|AUTOMATA: COPIAR
+Word: violencia
+State: Q0
+State: &(Q0, c) = Q1.
+|+|+|+|AUTOMATA: CORRUPCION
+Word: violencia
+State: Q0
+State: &(Q0, c) = Q1.
+|+|+|+|AUTOMATA: ENGANO
+Word: violencia
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: ENGANAR
+Word: violencia
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: FALSO
+Word: violencia
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: violencia
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: violencia
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: violencia
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: violencia
+State: Q0
+State: &(Q0, v) = Q1.
+State: &(Q1, i) = Q2.
+State: &(Q2, o) = Q3.
+State: &(Q3, l) = Q4.
+State: &(Q4, e) = Q5.
+State: &(Q5, n) = Q6.
+State: &(Q6, c) = Q7.
+State: &(Q7, i) = Q8.
+State: &(Q8, a) = Q9.
+|+|+|+|+|+|SUSPICIOUS WORD: violencia
+
+|+|+|+|AUTOMATA: COPIAR
+Word: traficar
+State: Q0
+State: &(Q0, c) = Q1.
+|+|+|+|AUTOMATA: CORRUPCION
+Word: traficar
+State: Q0
+State: &(Q0, c) = Q1.
+|+|+|+|AUTOMATA: ENGANO
+Word: traficar
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: traficar
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: traficar
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: traficar
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+|+|+|+|AUTOMATA: MENTIR
+Word: traficar
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: traficar
+State: Q0
+State: &(Q0, r) = Q1.
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: traficar
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: traficar
+State: Q0
+State: &(Q0, t) = Q1.
+State: &(Q1, r) = Q2.
+State: &(Q2, a) = Q3.
+State: &(Q3, f) = Q4.
+State: &(Q4, i) = Q5.
+State: &(Q5, c) = Q6.
+State: &(Q6, a) = Q7.
+State: &(Q7, r) = Q8.
+|+|+|+|+|+|SUSPICIOUS WORD: traficar
+
+|+|+|+|AUTOMATA: COPIAR
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: en
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: ENGANAR
+Word: en
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: FALSO
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: en
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: en
+State: Q0
+The word en is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: los
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: los
+State: Q0
+The word los is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: a
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: a
+State: Q0
+The word a is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: os
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: os
+State: Q0
+The word os is not suspicious.
+
+
+|+|+|+|+|+|+|+|I'M ON|+|+|+|+|+|+|+|.
+BLOCK READ: existieron muchos famosos que se encargaron de
+
+|+|+|+|AUTOMATA: COPIAR
+Word: existieron
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: existieron
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: existieron
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: ENGANAR
+Word: existieron
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+|+|+|+|AUTOMATA: FALSO
+Word: existieron
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: existieron
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: existieron
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: existieron
+State: Q0
+State: &(Q0, r) = Q1.
+State: &(Q1, o) = Q2.
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: existieron
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: existieron
+State: Q0
+State: &(Q0, t) = Q1.
+State: &(Q1, r) = Q2.
+The word existieron is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: muchos
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+|+|+|+|AUTOMATA: CORRUPCION
+Word: muchos
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+|+|+|+|AUTOMATA: ENGANO
+Word: muchos
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: muchos
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: muchos
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: muchos
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: muchos
+State: Q0
+State: &(Q0, m) = Q1.
+|+|+|+|AUTOMATA: ROBAR
+Word: muchos
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: muchos
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: muchos
+State: Q0
+The word muchos is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: famosos
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: famosos
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: famosos
+State: Q0
+|+|+|+|AUTOMATA: ENGANAR
+Word: famosos
+State: Q0
+|+|+|+|AUTOMATA: FALSO
+Word: famosos
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: famosos
+State: Q0
+State: &(Q0, f) = Q1.
+State: &(Q1, a) = Q2.
+|+|+|+|AUTOMATA: MENTIR
+Word: famosos
+State: Q0
+State: &(Q0, m) = Q1.
+|+|+|+|AUTOMATA: ROBAR
+Word: famosos
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: famosos
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: famosos
+State: Q0
+The word famosos is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: que
+State: Q0
+State: &(Q0, e) = Q1.
+|+|+|+|AUTOMATA: ENGANAR
+Word: que
+State: Q0
+State: &(Q0, e) = Q1.
+|+|+|+|AUTOMATA: FALSO
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: que
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: que
+State: Q0
+The word que is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: CORRUPCION
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: ENGANO
+Word: se
+State: Q0
+State: &(Q0, e) = Q1.
+|+|+|+|AUTOMATA: ENGANAR
+Word: se
+State: Q0
+State: &(Q0, e) = Q1.
+|+|+|+|AUTOMATA: FALSO
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: se
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: se
+State: Q0
+The word se is not suspicious.
+
+|+|+|+|AUTOMATA: COPIAR
+Word: encargaron
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+|+|+|+|AUTOMATA: CORRUPCION
+Word: encargaron
+State: Q0
+State: &(Q0, c) = Q1.
+State: &(Q1, o) = Q2.
+|+|+|+|AUTOMATA: ENGANO
+Word: encargaron
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+State: &(Q2, g) = Q3.
+State: &(Q3, a) = Q4.
+State: &(Q4, n) = Q5.
+|+|+|+|AUTOMATA: ENGANAR
+Word: encargaron
+State: Q0
+State: &(Q0, e) = Q1.
+State: &(Q1, n) = Q2.
+State: &(Q2, g) = Q3.
+State: &(Q3, a) = Q4.
+State: &(Q4, n) = Q5.
+|+|+|+|AUTOMATA: FALSO
+Word: encargaron
+State: Q0
+|+|+|+|AUTOMATA: FALSIFICAR
+Word: encargaron
+State: Q0
+|+|+|+|AUTOMATA: MENTIR
+Word: encargaron
+State: Q0
+|+|+|+|AUTOMATA: ROBAR
+Word: encargaron
+State: Q0
+State: &(Q0, r) = Q1.
+State: &(Q1, o) = Q2.
+|+|+|+|AUTOMATA: VIOLENCIA
+Word: encargaron
+State: Q0
+|+|+|+|AUTOMATA: TRAFICAR
+Word: encargaron
+State: Q0
+The word encargaron is not suspicious.
+
+
+|+|+|+|+|+|+|+|I'M OF|+|+|+|+|+|+|+|.
+SAW COPIAR: 1 TIMES.
+SAW CORRUPCION: 1 TIMES.
+SAW ENGANO: 1 TIMES.
+SAW ENGANAR: 1 TIMES.
+SAW FALSO: 1 TIMES.
+SAW FALSIFICAR: 1 TIMES.
+SAW MENTIR: 1 TIMES.
+SAW ROBAR: 1 TIMES.
+SAW VIOLENCIA: 1 TIMES.
+SAW TRAFICAR: 1 TIMES.
+

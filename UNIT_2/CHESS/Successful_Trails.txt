@@ -1,0 +1,16 @@
+
+|+|+|The string is: rrrb
+|+|+|The last level is: 4
+|+|+|The number of nines is: 4
+|+|+|The number of nodes is: 39
+|+|+|The string succeeded.
+
+Found node 9 in level 4.
+The trail is: 9--6--8--4--1--
+
+Found node 9 in level 4.
+The trail is: 9--6--2--4--1--
+
+Found node 9 in level 4.
+The trail is: 9--8--6--2--1--
+

@@ -1,0 +1,11 @@
+|+|+|The string is: ()((
+
+|+|+|Remaining input: ()((	B
+|+|+|Remaining input:  )((	(RB
+|+|+|Remaining input:   ((	()B
+|+|+|Remaining input:    (	()(RB
+|+|+|Remaining input:     	()((RRB
+|+|+|Remaining input:     	()((RRB
+
+|+|+|NOT ACCEPTED: The string has no balaced-parentheses.
+

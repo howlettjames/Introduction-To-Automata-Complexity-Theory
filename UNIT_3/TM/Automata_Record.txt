@@ -1,0 +1,78 @@
+|+|+|The string is: 0001111
+
+|+|+|Start
+0001111
+^      
+
+X001111
+ ^     
+
+X001111
+  ^    
+
+X001111
+   ^   
+
+X00Y111
+  ^    
+
+X00Y111
+ ^     
+
+X00Y111
+^      
+
+X00Y111
+ ^     
+
+XX0Y111
+  ^    
+
+XX0Y111
+   ^   
+
+XX0Y111
+    ^  
+
+XX0YY11
+   ^   
+
+XX0YY11
+  ^    
+
+XX0YY11
+ ^     
+
+XX0YY11
+  ^    
+
+XXXYY11
+   ^   
+
+XXXYY11
+    ^  
+
+XXXYY11
+     ^ 
+
+XXXYYY1
+    ^  
+
+XXXYYY1
+   ^   
+
+XXXYYY1
+  ^    
+
+XXXYYY1
+   ^   
+
+XXXYYY1
+    ^  
+
+XXXYYY1
+     ^ 
+
+
+|+|+|STRING NOT ACCEPTED
+

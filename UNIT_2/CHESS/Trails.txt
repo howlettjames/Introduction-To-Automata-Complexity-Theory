@@ -1,0 +1,70 @@
+
+|+|+|The string is: rrrb
+|+|+|The last level is: 4
+|+|+|The number of nines is: 4
+|+|+|The number of nodes is: 39
+|+|+|The string succeeded.
+
+Found node 5 in level 4.
+The trail is: 5--6--8--4--1--
+
+Found node 3 in level 4.
+The trail is: 3--6--8--4--1--
+
+Found node 7 in level 4.
+The trail is: 7--4--8--4--1--
+
+Found node 5 in level 4.
+The trail is: 5--4--8--4--1--
+
+Found node 1 in level 4.
+The trail is: 1--4--8--4--1--
+
+Found node 5 in level 4.
+The trail is: 5--6--2--4--1--
+
+Found node 3 in level 4.
+The trail is: 3--6--2--4--1--
+
+Found node 7 in level 4.
+The trail is: 7--4--2--4--1--
+
+Found node 5 in level 4.
+The trail is: 5--4--2--4--1--
+
+Found node 1 in level 4.
+The trail is: 1--4--2--4--1--
+
+Found node 7 in level 4.
+The trail is: 7--8--6--2--1--
+
+Found node 5 in level 4.
+The trail is: 5--8--6--2--1--
+
+Found node 5 in level 4.
+The trail is: 5--2--6--2--1--
+
+Found node 3 in level 4.
+The trail is: 3--2--6--2--1--
+
+Found node 1 in level 4.
+The trail is: 1--2--6--2--1--
+
+Found node 9 in level 4.
+The trail is: 9--8--4--2--1--
+
+Found node 7 in level 4.
+The trail is: 7--8--4--2--1--
+
+Found node 5 in level 4.
+The trail is: 5--8--4--2--1--
+
+Found node 5 in level 4.
+The trail is: 5--2--4--2--1--
+
+Found node 3 in level 4.
+The trail is: 3--2--4--2--1--
+
+Found node 1 in level 4.
+The trail is: 1--2--4--2--1--
+

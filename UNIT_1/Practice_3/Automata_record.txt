@@ -1,0 +1,23 @@
+Word: I
+**State: QI.
+**State: &(QI,i) = Q0.
+++Word not accepted.
+
+Word: am
+**State: QI.
+*+State: QI.
+*+State: QI.
+++Word not accepted.
+
+Word: writting
+**State: QI.
+*+State: QI.
+**State: &(QI,i) = Q0.
+*+State: QI.
+*+State: QI.
+**State: &(QI,i) = Q0.
+**State: &(Q0,n) = Q1.
+**State: &(Q1,g) = Q2.
+++Word accepted.
+
+Number of words ending in ing: 1

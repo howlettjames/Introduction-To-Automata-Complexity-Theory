@@ -1,0 +1,8 @@
+|+|The string is: 0001111
+|+|Start.
+
+(q, 0001111, Z)|-(q, 001111, XZ)|-(q, 01111, XXZ)|-(q, 1111, XXXZ)|-(p, 111, XXZ)|-(p, 11, XZ)|-(p, 1, Z)|-
+(f, , Z)
+
+|+|THE STRING DID NOT SUCCEED.
+
